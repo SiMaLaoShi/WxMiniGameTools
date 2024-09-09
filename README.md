@@ -9,6 +9,8 @@
 6. [ILSpy](https://github.com/icsharpcode/ILSpy)
 7. [watb](https://github.com/WebAssembly/wabt)
 8. [unityweb.exe](https://github.com/jozsefsallai/unityweb/releases/tag/v1.0.2)
+9. [uwdtool](https://github.com/SiMaLaoShi/UWDTool_Tuanjie)
+10. [twiggy ](https://github.com/rustwasm/twiggy)
 
 ### unverilr
 
