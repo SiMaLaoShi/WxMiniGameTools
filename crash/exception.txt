@@ -1,0 +1,15 @@
+2024-12-6 10:58:41 [warn] MiniProgramError
+null function or function signature mismatch
+RuntimeError: null function or function signature mismatch
+    at wasm://wasm/0a9adf2e:wasm-function[73413]:0x1876bbb
+    at wasm://wasm/0a9adf2e:wasm-function[73450]:0x1879a85
+    at wasm://wasm/0a9adf2e:wasm-function[72520]:0x18499b2
+    at wasm://wasm/0a9adf2e:wasm-function[72521]:0x18499dd
+    at wasm://wasm/0a9adf2e:wasm-function[64882]:0x16555ac
+    at wasm://wasm/0a9adf2e:wasm-function[51709]:0x1294201
+    at wasm://wasm/0a9adf2e:wasm-function[51713]:0x12943f7
+    at wasm://wasm/0a9adf2e:wasm-function[77321]:0x19222cd
+    at wasm://wasm/0a9adf2e:wasm-function[79699]:0x1951727
+    at wasm://wasm/0a9adf2e:wasm-function[105888]:0x2618d17
+2024-12-6 10:58:41 [warn] An abnormal situation has occurred: the PlayerLoop internal function has been called recursively. Please contact Customer Support with a sample project so that we can reproduce the problem and troubleshoot it.
+null
